@@ -10,5 +10,6 @@ package com.example.springboot.dao;
 public class EmpDao {
     public static void main(String[] args) {
         System.out.println(111);
+        System.out.println(6666);
     }
 }
